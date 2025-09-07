@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Rafael Casiolla 😁
+## Bem-vindo(a) ao meu perfil, atualmente estou cursando Análise e Desenvolvimento de Sistemas e buscando conhecimento por fora em linguagens de programação!😁
 
  <div>
    <a href="https://github.com/rafaelcassiolla">
